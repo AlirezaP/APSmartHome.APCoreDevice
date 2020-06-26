@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "APCoreDevice.BroadCaster": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
